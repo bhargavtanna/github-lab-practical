@@ -1,0 +1,1 @@
+Branches allow you to work on different versions of a project simultaneously. The main branch, often called “main” or “master,” is the default branch. You can create new branches to develop features or fix bugs without affecting the main branch
