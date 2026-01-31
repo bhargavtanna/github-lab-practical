@@ -1,0 +1,1 @@
+GitHub is designed for collaborative work. It allows multiple people to contribute to a project, review code, discuss issues, and merge changes efficiently. This makes it an ideal platform for open-source projects and team-based development.
