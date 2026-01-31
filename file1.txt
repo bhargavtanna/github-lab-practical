@@ -1,0 +1,1 @@
+GitHub is a web-based platform that hosts Git repositories, providing tools for version control and collaboration. It allows developers to work together on projects from anywhere in the world.
